@@ -2,5 +2,4 @@
 testing prpose
 
 
-this is my testing purpose repo and readme file
- sfsdfsdfsdf dfgdfg
+this is my testing purpose repo and readme fileghfghfghfgh
