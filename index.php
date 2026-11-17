@@ -1,7 +1,7 @@
 <?php 
 
-echo "hello world";
+$newVar = "hello world";
 
-echo "new world $newvar";
+echo $newVar;
 
 ?>
