@@ -1,7 +1,9 @@
 <?php 
 
-echo "hello world";
+$first = 20;
 
-echo "new world $newvar";
+$second = 30;
+
+echo "Sum of the two number : $first+$second";
 
 ?>
